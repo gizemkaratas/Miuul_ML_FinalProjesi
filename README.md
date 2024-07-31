@@ -1,4 +1,4 @@
-# Makine Öğrenmesi ile Futbol Maçlarında Oyuncuların Sarı Kart Görme Olasılığını Tahmin Edilmesi
+# Makine Öğrenmesi ile Futbol Maçlarında Oyuncuların Sarı Kart Görme Olasılığının Tahmin Edilmesi
 
 Bu proje, futbol maçlarında oyuncuların sarı kart görme olasılığını etkileyen faktörleri analiz etmeyi ve bu bilgiler ışığında gelecekteki maçlar için sarı kart tahminleme modeli oluşturmayı hedeflemektedir.
 
