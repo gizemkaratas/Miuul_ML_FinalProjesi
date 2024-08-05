@@ -7,7 +7,7 @@ Bu projede, futbol maçlarında oyuncuların sarı kart görme olasılığını 
 Bu projenin amacı, futbol maçlarında oyuncuların sarı kart görme olasılığını tahmin etmektir. Bu tahminler, futbol kulüpleri ve teknik direktörler için oyuncu performansını optimize etmek, maç stratejilerini geliştirmek ve disiplin sorunlarını önceden tahmin ederek gerekli önlemleri almak konusunda önemli bir araç olarak kullanılabilir. Proje, futbol analitiği alanında yenilikçi bir yaklaşım sunarak veri odaklı karar alma süreçlerini desteklemeyi amaçlamaktadır.
 
 ## İçindekiler
-#Read me
+# Read me
 - [Proje Hakkında](#proje-hakkında)
 - [Kullanılan Kütüphaneler](#kullanılan-kütüphaneler)
 - [Veri Seti](#veri-seti)
