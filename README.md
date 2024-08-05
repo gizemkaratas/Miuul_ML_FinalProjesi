@@ -99,7 +99,7 @@ Proje, oyuncuların kart görme eğilimlerini tahmin etmek için kullanılan mod
 | Gradient Boosting | 0.9113 | 0.8681 | 0.8677 | 0.8681 | 0.8677 |
 | XGBoost | 0.9997 | 0.8985 | 0.8717 | 0.9012 | 0.9013 |
 
-## GS-BJK Maçı için Sarı Kart Tahminlemesi
+## GS-BJK Süper Kupa Finali (03.08.2024) Maçı için Sarı Kart Tahminlemesi
 
 
 
