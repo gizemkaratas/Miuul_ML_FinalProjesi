@@ -1,6 +1,8 @@
 # Makine Öğrenmesi ile Futbol Maç Sonucu Tahminlemesi
 
-Bu projede, futbol maçlarında oyuncuların sarı kart görme olasılığını etkileyen faktörler analiz edilerek gelecekteki maçlar için sarı kart tahminleme modeli oluşturulmuştur. **Proje, 03.08.2024 tarihinde gerçekleşen Süper Kupa Final Maçı olan GS-BJK maçında alınacak sonuçların önceden tahmininde kullanılmıştır.**
+Bu projede, futbol maçlarında oyuncuların sarı kart görme olasılığını etkileyen faktörler analiz edilerek gelecekteki maçlar için sarı kart tahminleme modeli oluşturulmuştur.
+
+**Proje, 03.08.2024 tarihinde gerçekleşen Süper Kupa Final Maçı olan GS-BJK maçında alınacak sonuçların önceden tahmininde kullanılmıştır.**
 
 ## Projenin Hedefi
 
@@ -49,7 +51,7 @@ Bu proje aşağıdaki Python kütüphanelerini kullanmaktadır:
 
 ## Veri Seti
 
-Proje, futbol oyuncularının performans verilerini içeren bir veri seti kullanmaktadır. Veri seti aşağıdaki özellikleri içermektedir:
+9 ayrı veri seti kullanılarak oluşturulan csv dosyası birçok yeni özellik bulundurmaktadır. Proje, futbol oyuncularının performans verilerini içeren bir veri seti kullanmaktadır. Veri seti aşağıdaki özellikleri içermektedir:
 
 - player_id: Oyuncunun benzersiz kimlik numarası.
 - attendance: Maçta oyuncunun seyirci sayısı.
