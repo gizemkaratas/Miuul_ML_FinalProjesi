@@ -1,6 +1,6 @@
 # Makine Öğrenmesi ile Futbol Maç Sonucu Tahminlemesi
 
-Bu projede, futbol maçlarında oyuncuların sarı kart görme olasılığını etkileyen faktörler analiz edilerek gelecekteki maçlar için sarı kart tahminleme modeli oluşturulmuştur. 
+Bu projede, futbol maçlarında oyuncuların sarı kart görme olasılığını etkileyen faktörler analiz edilerek gelecekteki maçlar için sarı kart tahminleme modeli oluşturulmuştur. Proje, 03.08.2024 tarihinde gerçekleşen GS-BJK maçında alınacak sonuçların önceden tahmininde kullanılmıştır.
 
 ## Projenin Hedefi
 
@@ -98,6 +98,10 @@ Proje, oyuncuların kart görme eğilimlerini tahmin etmek için kullanılan mod
 | Decision Tree | 1.0000 | 0.7902 | 0.7910 | 0.7902 | 0.7920 |
 | Gradient Boosting | 0.9113 | 0.8681 | 0.8677 | 0.8681 | 0.8677 |
 | XGBoost | 0.9997 | 0.8985 | 0.8717 | 0.9012 | 0.9013 |
+
+## GS-BJK Maçı için Sarı Kart Tahminlemesi
+
+
 
 
 ## Nasıl Çalıştırılır
