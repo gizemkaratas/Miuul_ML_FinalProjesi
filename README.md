@@ -16,25 +16,6 @@ Bu projenin amacı, futbol maçlarında oyuncuların sarı kart görme olasılı
 - [Katkıda Bulunma](#katkıda-bulunma)
 - [Lisans](#lisans)
 
-## Gerekli Kütüphanelerin Yüklenmesi
-
-Projede kullanılacak kütüphaneler aşağıda belirtilmiştir. Bu kütüphaneleri yüklemek için aşağıdaki kodları kullanabilirsiniz:
-
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import warnings
-import matplotlib
-from sklearn.exceptions import ConvergenceWarning
-
-pd.set_option("display.max_columns", None)
-pd.set_option("display.float_format", lambda x: "%.3f" % x)
-
-warnings.simplefilter(action='ignore', category=FutureWarning)
-warnings.simplefilter("ignore", category=ConvergenceWarning)
-
 Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
