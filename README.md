@@ -1,6 +1,6 @@
 # Makine Öğrenmesi ile Futbol Maç Sonucu Tahminlemesi
 
-Bu projede, futbol maçlarında oyuncuların sarı kart görme olasılığını etkileyen faktörler analiz edilerek gelecekteki maçlar için sarı kart tahminleme modeli oluşturulmuştur. Proje, 03.08.2024 tarihinde gerçekleşen GS-BJK maçında alınacak sonuçların önceden tahmininde kullanılmıştır.
+Bu projede, futbol maçlarında oyuncuların sarı kart görme olasılığını etkileyen faktörler analiz edilerek gelecekteki maçlar için sarı kart tahminleme modeli oluşturulmuştur. ** Proje, 03.08.2024 tarihinde gerçekleşen Süper Kupa Final Maçı olan GS-BJK maçında alınacak sonuçların önceden tahmininde kullanılmıştır. **
 
 ## Projenin Hedefi
 
