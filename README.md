@@ -104,7 +104,7 @@ Proje, oyuncuların kart görme eğilimlerini tahmin etmek için kullanılan mod
 
 ## GS-BJK Süper Kupa Finali (03.08.2024) Maçı için Sarı Kart Tahminlemesi
 
-
+CSV dosyası yükleme butonu ile dosya aktarımı yapılır ve maç sonucu önceden tahminlenebilir. burada test.csv verilerini maç öncesinde oluşturup maç için tahminlemede bulunduk. Bu uygulama diğer maçlar için de kullanılabilir.
 
 
 ## Nasıl Çalıştırılır
