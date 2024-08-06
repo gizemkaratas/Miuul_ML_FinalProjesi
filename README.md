@@ -93,13 +93,14 @@ Proje, çeşitli makine öğrenmesi algoritmaları ile oyuncuların kart görme 
 Proje, oyuncuların kart görme eğilimlerini tahmin etmek için kullanılan modellerin performansını değerlendirmektedir. Performans metrikleri arasında doğruluk (accuracy), kesinlik (precision), geri çağırma (recall) ve F1 skoru bulunmaktadır.
 
 
-| Model | Eğitim Doğruluğu | Test Doğruluğu | F1 Skoru | Recall | Precision |
-|----------|----------|----------|----------|----------|----------|
-| KNN | 0.8998 | 0.8554 | 0.8546 | 0.8554 | 0.8578 |
-| Random Forest | 0.9999 | 0.8733 | 0.8717 | 0.8733 | 0.8722 |
-| Decision Tree | 1.0000 | 0.7902 | 0.7910 | 0.7902 | 0.7920 |
-| Gradient Boosting | 0.9113 | 0.8681 | 0.8677 | 0.8681 | 0.8677 |
-| XGBoost | 0.9997 | 0.8985 | 0.8717 | 0.9012 | 0.9013 |
+| Model              | Accuracy | Precision | Recall | F1 Score | ROC AUC | CV F1 Score |
+|--------------------|----------|-----------|--------|----------|---------|-------------|
+| Logistic Regression| 0.717    | 0.710     | 0.717  | 0.708    | 0.763   | 0.739       |
+| Decision Tree      | 0.694    | 0.700     | 0.694  | 0.696    | 0.683   | 0.716       |
+| Random Forest      | 0.782    | 0.780     | 0.782  | 0.781    | 0.843   | 0.799       |
+| XGBoost            | 0.722    | 0.717     | 0.722  | 0.718    | 0.779   | 0.751       |
+| KNeighbors         | 0.686    | 0.685     | 0.686  | 0.685    | 0.723   | 0.729       |
+
 
 ## GS-BJK Süper Kupa Finali (03.08.2024) Maçı için Sarı Kart Tahminlemesi
 
